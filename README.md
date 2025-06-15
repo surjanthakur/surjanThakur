@@ -9,7 +9,20 @@
   <img src="https://img.shields.io/github/followers/surjanthakur?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </div>
 
+---
 
+## 🚀 About Me
+
+```javascript
+const surjan = {
+    pronouns: "He/Him",
+    location: "India 🇮🇳",
+    currentFocus: "Building strea_web & exploring AI Agents",
+    learningGoals: ["Python", "Django", "AI Agents", "Machine Learning"],
+    askMeAbout: ["React", "Node.js", "Express", "MongoDB", "SQL", "Full Stack Development"],
+    funFact: "I have a creative mindset and love turning ideas into reality! ✨",
+    motto: "Code, Create, Innovate, Repeat 🔄"
+};
 ```
 
 ---
