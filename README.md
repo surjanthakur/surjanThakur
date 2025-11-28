@@ -1,7 +1,7 @@
 <h2 align="left">Surjan Thakur</h2>
 
 # I’m a college dropout coder — by choice, not by chance.
-I made this decision because I’d rather learn from building than from textbooks and boring assignments.
+ > I made this decision because I’d rather learn from building than from textbooks and boring assignments.
 I don’t want to submit projects. I want to ship products.
 I’m building my skills every single day. It takes time, but my work will speak louder than any degree.
 So judge me by my skills, not by my certificate.
