@@ -1,4 +1,4 @@
-<h2 align="left">Surjan Thakur</h2>
+- # surjan thakur 📝
 
 # I’m a college dropout coder — by choice, not by chance.
  > I made this decision because I’d rather learn from building than from textbooks and boring assignments.
