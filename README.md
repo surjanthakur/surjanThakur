@@ -1,6 +1,4 @@
-# Hi there, I'm [Your Name] 👋
-
-Welcome to my GitHub profile! I'm passionate about building things and solving problems with code.
+# Hi there 😀, I'm SURJAN THAKUR 👋
 
 ---
 
